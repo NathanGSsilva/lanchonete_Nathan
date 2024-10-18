@@ -1,0 +1,1 @@
+enum tipoProduto {Comida, Bebida}
